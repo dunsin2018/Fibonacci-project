@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "689796501017",
+    "firebase_url": "https://my-kfueit.firebaseio.com",
+    "project_id": "my-kfueit",
+    "storage_bucket": "my-kfueit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689796501017:android:412e8a11ee9a9df0",
+        "android_client_info": {
+          "package_name": "com.java.sd.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689796501017-6bnqf4f6cjo3v9635qqtosqtnnoe0g4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.java.sd.admin",
+            "certificate_hash": "43bf2d3e6e9dc17d9d470ccd2dc36915e17307f2"
+          }
+        },
+        {
+          "client_id": "689796501017-5p1pndcqfqkvfi7g169lce1a66a8ijph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLoyECWRmHkfbEBXoe0O5HRyvht0VeHqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689796501017-5p1pndcqfqkvfi7g169lce1a66a8ijph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689796501017:android:b3e9b175f7745377",
+        "android_client_info": {
+          "package_name": "com.java.sd.mykfueit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689796501017-5agabebgfvn3s02n8g8mkqv69h49m9jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.java.sd.mykfueit",
+            "certificate_hash": "43bf2d3e6e9dc17d9d470ccd2dc36915e17307f2"
+          }
+        },
+        {
+          "client_id": "689796501017-5p1pndcqfqkvfi7g169lce1a66a8ijph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLoyECWRmHkfbEBXoe0O5HRyvht0VeHqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689796501017-5p1pndcqfqkvfi7g169lce1a66a8ijph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689796501017:android:f0c2dd8706c0cd179ae488",
+        "android_client_info": {
+          "package_name": "com.ljuv.fibonacciapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689796501017-pndeejfal7lei0u01inckrqc5koi7jen.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ljuv.fibonacciapp",
+            "certificate_hash": "338347f87f42e0bd9ddf26ffdb2e89e980d0eb6d"
+          }
+        },
+        {
+          "client_id": "689796501017-5p1pndcqfqkvfi7g169lce1a66a8ijph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLoyECWRmHkfbEBXoe0O5HRyvht0VeHqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689796501017-5p1pndcqfqkvfi7g169lce1a66a8ijph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
